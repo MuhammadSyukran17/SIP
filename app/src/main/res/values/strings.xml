@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ProjectAkhir</string>
+    <string name="user">Profile</string>
+    <string name="marker">Lokasi</string>
+    <string name="home">Home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Title Buku</string>
+    <string name="secondary_text">Nama Penulia</string>
+    <string name="supporting_text">Deskripsi</string>
+    <string name="harga">Harga Buku</string>
+    <string name="lokasi">Alamat Toko</string>
+    <string name="map_key" translatable="false">AIzaSyB1adi6PVQ8An8u7DiiO3zLq3UKIF434Sg</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

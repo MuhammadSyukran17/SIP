@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1049077335064",
+    "firebase_url": "https://siprpl-8e16e-default-rtdb.firebaseio.com",
+    "project_id": "siprpl-8e16e",
+    "storage_bucket": "siprpl-8e16e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049077335064:android:629519e9fecb58ee7eaf6d",
+        "android_client_info": {
+          "package_name": "com.example.projectakhir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049077335064-tnh8k2okhgd1c5vomb0ho14c4cdhp7ub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhfCSxqAABrfbvn6CHZDeJ1Yncl5O88Ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049077335064-tnh8k2okhgd1c5vomb0ho14c4cdhp7ub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
